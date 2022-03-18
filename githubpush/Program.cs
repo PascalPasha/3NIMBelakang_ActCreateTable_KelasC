@@ -10,6 +10,7 @@ namespace githubpush
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Push to github");
         }
     }
 }
